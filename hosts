@@ -1,8 +1,12 @@
 [vpn]
-#vpn0 ansible_user=rubo77
-vpn1 ansible_user=rubo77
-vpn2 ansible_user=rubo77
-vpn3 ansible_user=rubo77
-#vpn4 ansible_user=rubo77
-vpn5 ansible_user=rubo77
-vpn6 ansible_user=rubo77
+vpn0.ffnord.net ansible_user=rubo77
+vpn1.ffnord.net ansible_user=rubo77
+vpn2.ffnord.net ansible_user=rubo77
+vpn3.ffnord.net ansible_user=rubo77
+vpn4.ffnord.net ansible_user=rubo77
+vpn5.ffnord.net ansible_user=rubo77
+vpn6.ffnord.net ansible_user=rubo77
+vpn7.ffnord.net ansible_user=rubo77
+vpn8.ffnord.net ansible_user=rubo77
+vpn9.ffnord.net ansible_user=rubo77
+vpn10.ffnord.net ansible_user=rubo77
