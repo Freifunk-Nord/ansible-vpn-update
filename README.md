@@ -5,7 +5,7 @@
 - `hosts`
 define your hosts and usernames that have sudo rights
 
-- `roles/dhcp/main.yml`
+- `roles/dhcp/defaults/main.yml`
 variables for your community
 
 call this script with 
