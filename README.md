@@ -1,4 +1,4 @@
-# Freifunk Kiel -  update all VPNs
+# Freifunk Nord -  update all VPNs
 
 ###configuration:
 
